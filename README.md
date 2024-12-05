@@ -1,5 +1,5 @@
 # zadanie3
-letnie przesilenie - 21.05 
-zimowa przesilenie - 21.11 
-rownonoc wiosena - 20.02 
-rownonoc jesiena - 20.08
+letnie przesilenie - 21.06 
+zimowa przesilenie - 21.12 
+rownonoc wiosena - 20.03 
+rownonoc jesiena - 20.09
